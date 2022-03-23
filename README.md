@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Nick</h1>
-
 <h2 align="center">Frontend Web Developer</h2>
 
 <br>
@@ -15,6 +14,7 @@ It is my goal to learn JS to an efficient level where I can understand algorithm
 
 <br>
 
+## Interests
 - 👀 I'm interested in anything techy
 	- I love the challenge of building <em>websites</em> and creating the HTML & CSS code
 - 🌱 I'm currently mastering JavaScript, whilst improving my HTML & CSS skills
