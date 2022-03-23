@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nick</h1>
 
-<h2 align="center">Frontend Web Developer - <em>'in the making'</em></h2>
+<h2 align="center">Frontend Web Developer</h2>
 
 <br>
 
