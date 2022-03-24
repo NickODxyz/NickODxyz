@@ -10,7 +10,7 @@ With my love for all things, IT and the web, I decided Front-End Web Development
 
 I've come a long way in these 3 months, from someone who was unsure how to structure a sites HTML semantically to someone who is fully confident that I can reproduce any design put in front of me. I've fallen in love with CSS and the power that comes with understanding how to use it proficiently, to enable you to bring to life any web page - only limited by your imagination.
 
-It is my goal to learn JS to an efficient level where I can understand algorithms and data without the need to look elsewhere for help. I will them begin to implement React into my toolkit and use to add further functionality to my sites.
+It is my goal to learn JS to an efficient level where I can understand algorithms and data without the need to look elsewhere for help. I will them begin to implement React into my toolkit and use it to add further functionality to my sites.
 
 <br>
 
